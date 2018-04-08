@@ -1,0 +1,23 @@
+{
+    "name": "semantic-project/uploader-bundle",
+    "type": "symfony-bundle",
+    "description": "A simple symfony3 bundle that attempts to ease file upload",
+    "keywords": [
+        "File uploads",
+        "upload"
+    ],
+    "homepage": "https://github.com/semantic-project/SemanticUploaderBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Semantic Project",
+            "email": "semantic-project@gmail.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+    
+}
