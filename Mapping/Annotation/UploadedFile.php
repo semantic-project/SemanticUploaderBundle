@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: N
- * Date: 09/04/2018
- * Time: 17:45
- */
 
 namespace Semantic\UploaderBundle\Mapping\Annotation;
 
