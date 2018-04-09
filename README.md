@@ -1,5 +1,5 @@
 # SemanticUploaderBundle
-==================
+
 
 The SemanticUploaderBundle is a Symfony bundle that attempts to ease file
 uploads.
